@@ -10,7 +10,7 @@
 
 <h2> 4) Access application from tomcat dashboard </h2>
 *********************************************************************************
-<h2> BUILD & DEPLOYMENT PROCESS </h2>
+<h2> BUILD & DEPLOYMENT PROCESS automated using Jenkins </h2>
 
 <h2> Download project from git hub </h2>
 
@@ -20,6 +20,6 @@
 
 <h2> Deploy war file into tomcat  (post build action) </h2> 
 
-<>h2> Access application using URL in browser </h2>
+<h2> Access application using URL in browser </h2>
 </body>
 </html>
