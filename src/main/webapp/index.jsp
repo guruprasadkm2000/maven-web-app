@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome, This is my first ci/cd project using Jenkins, Github, Maven, Tomcat  <font></h1>
+<h1><font color='red'> Welcome, guruprasad This is my first ci/cd project using Jenkins, Github, Maven, Tomcat  <font></h1>
 <h2> MANUAL PROCESS
 <h2> 1) Downloaded code from git hub </h2>
 
